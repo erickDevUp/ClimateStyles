@@ -1,0 +1,30 @@
+.BarData{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5vh;
+    margin-bottom: 50px;
+}
+.containerBarData{
+    display: flex;
+    width: 95%;
+    justify-content: space-between;
+}
+.containerBarData li{
+    list-style: none;
+}
+.containerBarData li h6{
+    display: inline-block;
+    font-size: 17px;
+    margin-right:10px ;
+    text-align: justify;
+    color: #444444;
+
+}
+.containerBarData img{
+    height: 15px;
+    max-width: 15px;
+}
+.barDataNote{
+    font-size: 10px !important;
+}

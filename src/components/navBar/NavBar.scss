@@ -1,0 +1,13 @@
+.navBar{
+    height: 5vh;
+    font-size: 48px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: end;
+    position: relative;
+}
+.navBar img {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}

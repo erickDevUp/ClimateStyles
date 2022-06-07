@@ -1,0 +1,21 @@
+@import '../components/generalData/GeneralData.scss';
+@import '../components/navBar/NavBar.scss';
+@import '../components/barData/BarData.scss';
+@import '../components/temperature/Temperature.scss';
+@import '../components/tempData/TempData.scss';
+@import '../components/getLocationForm/GetLocationForm.scss';
+
+*{
+    padding: 0; 
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+.climateCore{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    width: 100%;
+    color: #333333;
+    background-color: #efefef;
+    padding:5%;
+}

@@ -1,0 +1,2252 @@
+[
+    {
+      "id": 1791,
+      "name": "Afghanistan",
+      "iso3_name": "AFG",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "emoji": "🇦🇫",
+      "timezones": "Etc/GMT+5"
+    },
+    {
+      "id": 1792,
+      "name": "Aland Islands",
+      "iso3_name": "ALA",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇦🇽",
+      "timezones": "EET"
+    },
+    {
+      "id": 1793,
+      "name": "Albania",
+      "iso3_name": "ALB",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇦🇱",
+      "timezones": "Europe/Tirane"
+    },
+    {
+      "id": 1794,
+      "name": "Algeria",
+      "iso3_name": "DZA",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "emoji": "🇩🇿",
+      "timezones": "[{'zoneName': 'Africa/Algiers', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'CET', 'tzName': 'Central European Time'}]"
+    },
+    {
+      "id": 1795,
+      "name": "American Samoa",
+      "iso3_name": "ASM",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "emoji": "🇦🇸",
+      "timezones": "[{'zoneName': 'Pacific/Pago_Pago', 'gmtOffset': -39600, 'gmtOffsetName': 'UTC-11:00', 'abbreviation': 'SST', 'tzName': 'Samoa Standard Time'}]"
+    },
+    {
+      "id": 1796,
+      "name": "Andorra",
+      "iso3_name": "AND",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇦🇩",
+      "timezones": "Europe/Andorra"
+    },
+    {
+      "id": 1797,
+      "name": "Angola",
+      "iso3_name": "AGO",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "emoji": "🇦🇴",
+      "timezones": "[{'zoneName': 'Africa/Luanda', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'WAT', 'tzName': 'West Africa Time'}]"
+    },
+    {
+      "id": 1798,
+      "name": "Anguilla",
+      "iso3_name": "AIA",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇦🇮",
+      "timezones": "[{'zoneName': 'America/Anguilla', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1799,
+      "name": "Antarctica",
+      "iso3_name": "ATA",
+      "region": "Polar",
+      "subregion": "Antarctic",
+      "emoji": "🇦🇶",
+      "timezones": "[{'zoneName': 'Antarctica/Casey', 'gmtOffset': 39600, 'gmtOffsetName': 'UTC+11:00', 'abbreviation': 'AWST', 'tzName': 'Australian Western Standard Time'}, {'zoneName': 'Antarctica/Davis', 'gmtOffset': 25200, 'gmtOffsetName': 'UTC+07:00', 'abbreviation': 'DAVT', 'tzName': 'Davis Time'}, {'zoneName': 'Antarctica/DumontDUrville', 'gmtOffset': 36000, 'gmtOffsetName': 'UTC+10:00', 'abbreviation': 'DDUT', 'tzName': \"Dumont d'Urville Time\"}, {'zoneName': 'Antarctica/Mawson', 'gmtOffset': 18000, 'gmtOffsetName': 'UTC+05:00', 'abbreviation': 'MAWT', 'tzName': 'Mawson Station Time'}, {'zoneName': 'Antarctica/McMurdo', 'gmtOffset': 46800, 'gmtOffsetName': 'UTC+13:00', 'abbreviation': 'NZDT', 'tzName': 'New Zealand Daylight Time'}, {'zoneName': 'Antarctica/Palmer', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'CLST', 'tzName': 'Chile Summer Time'}, {'zoneName': 'Antarctica/Rothera', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'ROTT', 'tzName': 'Rothera Research Station Time'}, {'zoneName': 'Antarctica/Syowa', 'gmtOffset': 10800, 'gmtOffsetName': 'UTC+03:00', 'abbreviation': 'SYOT', 'tzName': 'Showa Station Time'}, {'zoneName': 'Antarctica/Troll', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}, {'zoneName': 'Antarctica/Vostok', 'gmtOffset': 21600, 'gmtOffsetName': 'UTC+06:00', 'abbreviation': 'VOST', 'tzName': 'Vostok Station Time'}]"
+    },
+    {
+      "id": 1800,
+      "name": "Antigua And Barbuda",
+      "iso3_name": "ATG",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇦🇬",
+      "timezones": "[{'zoneName': 'America/Antigua', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1801,
+      "name": "Argentina",
+      "iso3_name": "ARG",
+      "region": "Americas",
+      "subregion": "South America",
+      "emoji": "🇦🇷",
+      "timezones": "[{'zoneName': 'America/Argentina/Buenos_Aires', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'ART', 'tzName': 'Argentina Time'}, {'zoneName': 'America/Argentina/Catamarca', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'ART', 'tzName': 'Argentina Time'}, {'zoneName': 'America/Argentina/Cordoba', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'ART', 'tzName': 'Argentina Time'}, {'zoneName': 'America/Argentina/Jujuy', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'ART', 'tzName': 'Argentina Time'}, {'zoneName': 'America/Argentina/La_Rioja', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'ART', 'tzName': 'Argentina Time'}, {'zoneName': 'America/Argentina/Mendoza', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'ART', 'tzName': 'Argentina Time'}, {'zoneName': 'America/Argentina/Rio_Gallegos', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'ART', 'tzName': 'Argentina Time'}, {'zoneName': 'America/Argentina/Salta', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'ART', 'tzName': 'Argentina Time'}, {'zoneName': 'America/Argentina/San_Juan', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'ART', 'tzName': 'Argentina Time'}, {'zoneName': 'America/Argentina/San_Luis', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'ART', 'tzName': 'Argentina Time'}, {'zoneName': 'America/Argentina/Tucuman', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'ART', 'tzName': 'Argentina Time'}, {'zoneName': 'America/Argentina/Ushuaia', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'ART', 'tzName': 'Argentina Time'}]"
+    },
+    {
+      "id": 1802,
+      "name": "Armenia",
+      "iso3_name": "ARM",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇦🇲",
+      "timezones": "[{'zoneName': 'Asia/Yerevan', 'gmtOffset': 14400, 'gmtOffsetName': 'UTC+04:00', 'abbreviation': 'AMT', 'tzName': 'Armenia Time'}]"
+    },
+    {
+      "id": 1803,
+      "name": "Aruba",
+      "iso3_name": "ABW",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇦🇼",
+      "timezones": "[{'zoneName': 'America/Aruba', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1804,
+      "name": "Australia",
+      "iso3_name": "AUS",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "emoji": "🇦🇺",
+      "timezones": "[{'zoneName': 'Antarctica/Macquarie', 'gmtOffset': 39600, 'gmtOffsetName': 'UTC+11:00', 'abbreviation': 'MIST', 'tzName': 'Macquarie Island Station Time'}, {'zoneName': 'Australia/Adelaide', 'gmtOffset': 37800, 'gmtOffsetName': 'UTC+10:30', 'abbreviation': 'ACDT', 'tzName': 'Australian Central Daylight Saving Time'}, {'zoneName': 'Australia/Brisbane', 'gmtOffset': 36000, 'gmtOffsetName': 'UTC+10:00', 'abbreviation': 'AEST', 'tzName': 'Australian Eastern Standard Time'}, {'zoneName': 'Australia/Broken_Hill', 'gmtOffset': 37800, 'gmtOffsetName': 'UTC+10:30', 'abbreviation': 'ACDT', 'tzName': 'Australian Central Daylight Saving Time'}, {'zoneName': 'Australia/Currie', 'gmtOffset': 39600, 'gmtOffsetName': 'UTC+11:00', 'abbreviation': 'AEDT', 'tzName': 'Australian Eastern Daylight Saving Time'}, {'zoneName': 'Australia/Darwin', 'gmtOffset': 34200, 'gmtOffsetName': 'UTC+09:30', 'abbreviation': 'ACST', 'tzName': 'Australian Central Standard Time'}, {'zoneName': 'Australia/Eucla', 'gmtOffset': 31500, 'gmtOffsetName': 'UTC+08:45', 'abbreviation': 'ACWST', 'tzName': 'Australian Central Western Standard Time (Unofficial)'}, {'zoneName': 'Australia/Hobart', 'gmtOffset': 39600, 'gmtOffsetName': 'UTC+11:00', 'abbreviation': 'AEDT', 'tzName': 'Australian Eastern Daylight Saving Time'}, {'zoneName': 'Australia/Lindeman', 'gmtOffset': 36000, 'gmtOffsetName': 'UTC+10:00', 'abbreviation': 'AEST', 'tzName': 'Australian Eastern Standard Time'}, {'zoneName': 'Australia/Lord_Howe', 'gmtOffset': 39600, 'gmtOffsetName': 'UTC+11:00', 'abbreviation': 'LHST', 'tzName': 'Lord Howe Summer Time'}, {'zoneName': 'Australia/Melbourne', 'gmtOffset': 39600, 'gmtOffsetName': 'UTC+11:00', 'abbreviation': 'AEDT', 'tzName': 'Australian Eastern Daylight Saving Time'}, {'zoneName': 'Australia/Perth', 'gmtOffset': 28800, 'gmtOffsetName': 'UTC+08:00', 'abbreviation': 'AWST', 'tzName': 'Australian Western Standard Time'}, {'zoneName': 'Australia/Sydney', 'gmtOffset': 39600, 'gmtOffsetName': 'UTC+11:00', 'abbreviation': 'AEDT', 'tzName': 'Australian Eastern Daylight Saving Time'}]"
+    },
+    {
+      "id": 1805,
+      "name": "Austria",
+      "iso3_name": "AUT",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "emoji": "🇦🇹",
+      "timezones": "Europe/Vienna"
+    },
+    {
+      "id": 1806,
+      "name": "Azerbaijan",
+      "iso3_name": "AZE",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇦🇿",
+      "timezones": "[{'zoneName': 'Asia/Baku', 'gmtOffset': 14400, 'gmtOffsetName': 'UTC+04:00', 'abbreviation': 'AZT', 'tzName': 'Azerbaijan Time'}]"
+    },
+    {
+      "id": 1807,
+      "name": "Bahamas",
+      "iso3_name": "BHS",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇧🇸",
+      "timezones": "[{'zoneName': 'America/Nassau', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America)'}]"
+    },
+    {
+      "id": 1808,
+      "name": "Bahrain",
+      "iso3_name": "BHR",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇧🇭",
+      "timezones": "[{'zoneName': 'Asia/Bahrain', 'gmtOffset': 10800, 'gmtOffsetName': 'UTC+03:00', 'abbreviation': 'AST', 'tzName': 'Arabia Standard Time'}]"
+    },
+    {
+      "id": 1809,
+      "name": "Bangladesh",
+      "iso3_name": "BGD",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "emoji": "🇧🇩",
+      "timezones": "Asia/Dhaka"
+    },
+    {
+      "id": 1810,
+      "name": "Barbados",
+      "iso3_name": "BRB",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇧🇧",
+      "timezones": "[{'zoneName': 'America/Barbados', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1811,
+      "name": "Belarus",
+      "iso3_name": "BLR",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "emoji": "🇧🇾",
+      "timezones": "Europe/Minsk"
+    },
+    {
+      "id": 1812,
+      "name": "Belgium",
+      "iso3_name": "BEL",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "emoji": "🇧🇪",
+      "timezones": "Europe/Brussels"
+    },
+    {
+      "id": 1813,
+      "name": "Belize",
+      "iso3_name": "BLZ",
+      "region": "Americas",
+      "subregion": "Central America",
+      "emoji": "🇧🇿",
+      "timezones": "[{'zoneName': 'America/Belize', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America)'}]"
+    },
+    {
+      "id": 1814,
+      "name": "Benin",
+      "iso3_name": "BEN",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇧🇯",
+      "timezones": "[{'zoneName': 'Africa/Porto-Novo', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'WAT', 'tzName': 'West Africa Time'}]"
+    },
+    {
+      "id": 1815,
+      "name": "Bermuda",
+      "iso3_name": "BMU",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "emoji": "🇧🇲",
+      "timezones": "[{'zoneName': 'Atlantic/Bermuda', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1816,
+      "name": "Bhutan",
+      "iso3_name": "BTN",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "emoji": "🇧🇹",
+      "timezones": "[{'zoneName': 'Asia/Thimphu', 'gmtOffset': 21600, 'gmtOffsetName': 'UTC+06:00', 'abbreviation': 'BTT', 'tzName': 'Bhutan Time'}]"
+    },
+    {
+      "id": 1817,
+      "name": "Bolivia",
+      "iso3_name": "BOL",
+      "region": "Americas",
+      "subregion": "South America",
+      "emoji": "🇧🇴",
+      "timezones": "[{'zoneName': 'America/La_Paz', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'BOT', 'tzName': 'Bolivia Time'}]"
+    },
+    {
+      "id": 1818,
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "iso3_name": "BES",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇧🇶",
+      "timezones": "[{'zoneName': 'America/Anguilla', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1819,
+      "name": "Bosnia and Herzegovina",
+      "iso3_name": "BIH",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇧🇦",
+      "timezones": "Europe/Sarajevo"
+    },
+    {
+      "id": 1820,
+      "name": "Botswana",
+      "iso3_name": "BWA",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "emoji": "🇧🇼",
+      "timezones": "[{'zoneName': 'Africa/Gaborone', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'CAT', 'tzName': 'Central Africa Time'}]"
+    },
+    {
+      "id": 1821,
+      "name": "Bouvet Island",
+      "iso3_name": "BVT",
+      "region": "Polar",
+      "subregion": "Polar",
+      "emoji": "🇧🇻",
+      "timezones": "[{'zoneName': 'Europe/Oslo', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'CET', 'tzName': 'Central European Time'}]"
+    },
+    {
+      "id": 1822,
+      "name": "Brazil",
+      "iso3_name": "BRA",
+      "region": "Americas",
+      "subregion": "South America",
+      "emoji": "🇧🇷",
+      "timezones": "America/Rio_Branco"
+    },
+    {
+      "id": 1823,
+      "name": "British Indian Ocean Territory",
+      "iso3_name": "IOT",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇮🇴",
+      "timezones": "[{'zoneName': 'Indian/Chagos', 'gmtOffset': 21600, 'gmtOffsetName': 'UTC+06:00', 'abbreviation': 'IOT', 'tzName': 'Indian Ocean Time'}]"
+    },
+    {
+      "id": 1824,
+      "name": "Brunei",
+      "iso3_name": "BRN",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "emoji": "🇧🇳",
+      "timezones": "[{'zoneName': 'Asia/Brunei', 'gmtOffset': 28800, 'gmtOffsetName': 'UTC+08:00', 'abbreviation': 'BNT', 'tzName': 'Brunei Darussalam Time'}]"
+    },
+    {
+      "id": 1825,
+      "name": "Bulgaria",
+      "iso3_name": "BGR",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "emoji": "🇧🇬",
+      "timezones": "Europe/Sofia"
+    },
+    {
+      "id": 1826,
+      "name": "Burkina Faso",
+      "iso3_name": "BFA",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇧🇫",
+      "timezones": "[{'zoneName': 'Africa/Ouagadougou', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 1827,
+      "name": "Burundi",
+      "iso3_name": "BDI",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇧🇮",
+      "timezones": "[{'zoneName': 'Africa/Bujumbura', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'CAT', 'tzName': 'Central Africa Time'}]"
+    },
+    {
+      "id": 1828,
+      "name": "Cambodia",
+      "iso3_name": "KHM",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "emoji": "🇰🇭",
+      "timezones": "[{'zoneName': 'Asia/Phnom_Penh', 'gmtOffset': 25200, 'gmtOffsetName': 'UTC+07:00', 'abbreviation': 'ICT', 'tzName': 'Indochina Time'}]"
+    },
+    {
+      "id": 1829,
+      "name": "Cameroon",
+      "iso3_name": "CMR",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "emoji": "🇨🇲",
+      "timezones": "[{'zoneName': 'Africa/Douala', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'WAT', 'tzName': 'West Africa Time'}]"
+    },
+    {
+      "id": 1830,
+      "name": "Canada",
+      "iso3_name": "CAN",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "emoji": "🇨🇦",
+      "timezones": "[{'zoneName': 'America/Atikokan', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America)'}, {'zoneName': 'America/Blanc-Sablon', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}, {'zoneName': 'America/Cambridge_Bay', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America)'}, {'zoneName': 'America/Creston', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America)'}, {'zoneName': 'America/Dawson', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America)'}, {'zoneName': 'America/Dawson_Creek', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America)'}, {'zoneName': 'America/Edmonton', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America)'}, {'zoneName': 'America/Fort_Nelson', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America)'}, {'zoneName': 'America/Glace_Bay', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}, {'zoneName': 'America/Goose_Bay', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}, {'zoneName': 'America/Halifax', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}, {'zoneName': 'America/Inuvik', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America'}, {'zoneName': 'America/Iqaluit', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Moncton', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}, {'zoneName': 'America/Nipigon', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Pangnirtung', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Rainy_River', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/Rankin_Inlet', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/Regina', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/Resolute', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/St_Johns', 'gmtOffset': -12600, 'gmtOffsetName': 'UTC-03:30', 'abbreviation': 'NST', 'tzName': 'Newfoundland Standard Time'}, {'zoneName': 'America/Swift_Current', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/Thunder_Bay', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Toronto', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Vancouver', 'gmtOffset': -28800, 'gmtOffsetName': 'UTC-08:00', 'abbreviation': 'PST', 'tzName': 'Pacific Standard Time (North America'}, {'zoneName': 'America/Whitehorse', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America'}, {'zoneName': 'America/Winnipeg', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/Yellowknife', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America'}]"
+    },
+    {
+      "id": 1831,
+      "name": "Cape Verde",
+      "iso3_name": "CPV",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇨🇻",
+      "timezones": "[{'zoneName': 'Atlantic/Cape_Verde', 'gmtOffset': -3600, 'gmtOffsetName': 'UTC-01:00', 'abbreviation': 'CVT', 'tzName': 'Cape Verde Time'}]"
+    },
+    {
+      "id": 1832,
+      "name": "Cayman Islands",
+      "iso3_name": "CYM",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇰🇾",
+      "timezones": "[{'zoneName': 'America/Cayman', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}]"
+    },
+    {
+      "id": 1833,
+      "name": "Central African Republic",
+      "iso3_name": "CAF",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "emoji": "🇨🇫",
+      "timezones": "[{'zoneName': 'Africa/Bangui', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'WAT', 'tzName': 'West Africa Time'}]"
+    },
+    {
+      "id": 1834,
+      "name": "Chad",
+      "iso3_name": "TCD",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "emoji": "🇹🇩",
+      "timezones": "[{'zoneName': 'Africa/Ndjamena', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'WAT', 'tzName': 'West Africa Time'}]"
+    },
+    {
+      "id": 1835,
+      "name": "Chile",
+      "iso3_name": "CHL",
+      "region": "Americas",
+      "subregion": "South America",
+      "emoji": "🇨🇱",
+      "timezones": "[{'zoneName': 'America/Punta_Arenas', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'CLST', 'tzName': 'Chile Summer Time'}, {'zoneName': 'America/Santiago', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'CLST', 'tzName': 'Chile Summer Time'}, {'zoneName': 'Pacific/Easter', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EASST', 'tzName': 'Easter Island Summer Time'}]"
+    },
+    {
+      "id": 1836,
+      "name": "China",
+      "iso3_name": "CHN",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "emoji": "🇨🇳",
+      "timezones": "[{'zoneName': 'Asia/Shanghai', 'gmtOffset': 28800, 'gmtOffsetName': 'UTC+08:00', 'abbreviation': 'CST', 'tzName': 'China Standard Time'}, {'zoneName': 'Asia/Urumqi', 'gmtOffset': 21600, 'gmtOffsetName': 'UTC+06:00', 'abbreviation': 'XJT', 'tzName': 'China Standard Time'}]"
+    },
+    {
+      "id": 1837,
+      "name": "Christmas Island",
+      "iso3_name": "CXR",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "emoji": "🇨🇽",
+      "timezones": "[{'zoneName': 'Indian/Christmas', 'gmtOffset': 25200, 'gmtOffsetName': 'UTC+07:00', 'abbreviation': 'CXT', 'tzName': 'Christmas Island Time'}]"
+    },
+    {
+      "id": 1838,
+      "name": "Cocos (Keeling) Islands",
+      "iso3_name": "CCK",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "emoji": "🇨🇨",
+      "timezones": "[{'zoneName': 'Indian/Cocos', 'gmtOffset': 23400, 'gmtOffsetName': 'UTC+06:30', 'abbreviation': 'CCT', 'tzName': 'Cocos Islands Time'}]"
+    },
+    {
+      "id": 1839,
+      "name": "Colombia",
+      "iso3_name": "COL",
+      "region": "Americas",
+      "subregion": "South America",
+      "emoji": "🇨🇴",
+      "timezones": "[{'zoneName': 'America/Bogota', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'COT', 'tzName': 'Colombia Time'}]"
+    },
+    {
+      "id": 1840,
+      "name": "Comoros",
+      "iso3_name": "COM",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇰🇲",
+      "timezones": "[{'zoneName': 'Indian/Comoro', 'gmtOffset': 10800, 'gmtOffsetName': 'UTC+03:00', 'abbreviation': 'EAT', 'tzName': 'East Africa Time'}]"
+    },
+    {
+      "id": 1841,
+      "name": "Congo",
+      "iso3_name": "COG",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "emoji": "🇨🇬",
+      "timezones": "[{'zoneName': 'Africa/Brazzaville', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'WAT', 'tzName': 'West Africa Time'}]"
+    },
+    {
+      "id": 1842,
+      "name": "Cook Islands",
+      "iso3_name": "COK",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "emoji": "🇨🇰",
+      "timezones": "[{'zoneName': 'Pacific/Rarotonga', 'gmtOffset': -36000, 'gmtOffsetName': 'UTC-10:00', 'abbreviation': 'CKT', 'tzName': 'Cook Island Time'}]"
+    },
+    {
+      "id": 1843,
+      "name": "Costa Rica",
+      "iso3_name": "CRI",
+      "region": "Americas",
+      "subregion": "Central America",
+      "emoji": "🇨🇷",
+      "timezones": "[{'zoneName': 'America/Costa_Rica', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}]"
+    },
+    {
+      "id": 1844,
+      "name": "Cote D'Ivoire (Ivory Coast)",
+      "iso3_name": "CIV",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇨🇮",
+      "timezones": "[{'zoneName': 'Africa/Abidjan', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 1845,
+      "name": "Croatia",
+      "iso3_name": "HRV",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇭🇷",
+      "timezones": "Europe/Zagreb"
+    },
+    {
+      "id": 1846,
+      "name": "Cuba",
+      "iso3_name": "CUB",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇨🇺",
+      "timezones": "[{'zoneName': 'America/Havana', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'CST', 'tzName': 'Cuba Standard Time'}]"
+    },
+    {
+      "id": 1847,
+      "name": "Curacao",
+      "iso3_name": "CUW",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇨🇼",
+      "timezones": "[{'zoneName': 'America/Havana', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'CST', 'tzName': 'Cuba Standard Time'}]"
+    },
+    {
+      "id": 1848,
+      "name": "Cyprus",
+      "iso3_name": "CYP",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇨🇾",
+      "timezones": "Europe/Nicosia"
+    },
+    {
+      "id": 1849,
+      "name": "Czech Republic",
+      "iso3_name": "CZE",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "emoji": "🇨🇿",
+      "timezones": "Europe/Prague"
+    },
+    {
+      "id": 1850,
+      "name": "Democratic Republic of the Congo",
+      "iso3_name": "COD",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "emoji": "🇨🇩",
+      "timezones": "[{'zoneName': 'Africa/Kinshasa', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'WAT', 'tzName': 'West Africa Time'}, {'zoneName': 'Africa/Lubumbashi', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'CAT', 'tzName': 'Central Africa Time'}]"
+    },
+    {
+      "id": 1851,
+      "name": "Denmark",
+      "iso3_name": "DNK",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇩🇰",
+      "timezones": "Europe/Copenhagen"
+    },
+    {
+      "id": 1852,
+      "name": "Djibouti",
+      "iso3_name": "DJI",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇩🇯",
+      "timezones": "[{'zoneName': 'Africa/Djibouti', 'gmtOffset': 10800, 'gmtOffsetName': 'UTC+03:00', 'abbreviation': 'EAT', 'tzName': 'East Africa Time'}]"
+    },
+    {
+      "id": 1853,
+      "name": "Dominica",
+      "iso3_name": "DMA",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇩🇲",
+      "timezones": "[{'zoneName': 'America/Dominica', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1854,
+      "name": "Dominican Republic",
+      "iso3_name": "DOM",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇩🇴",
+      "timezones": "[{'zoneName': 'America/Santo_Domingo', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1855,
+      "name": "East Timor",
+      "iso3_name": "TLS",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "emoji": "🇹🇱",
+      "timezones": "[{'zoneName': 'Asia/Dili', 'gmtOffset': 32400, 'gmtOffsetName': 'UTC+09:00', 'abbreviation': 'TLT', 'tzName': 'Timor Leste Time'}]"
+    },
+    {
+      "id": 1856,
+      "name": "Ecuador",
+      "iso3_name": "ECU",
+      "region": "Americas",
+      "subregion": "South America",
+      "emoji": "🇪🇨",
+      "timezones": "[{'zoneName': 'America/Guayaquil', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'ECT', 'tzName': 'Ecuador Time'}, {'zoneName': 'Pacific/Galapagos', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'GALT', 'tzName': 'Galápagos Time'}]"
+    },
+    {
+      "id": 1857,
+      "name": "Egypt",
+      "iso3_name": "EGY",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "emoji": "🇪🇬",
+      "timezones": "Egypt"
+    },
+    {
+      "id": 1858,
+      "name": "El Salvador",
+      "iso3_name": "SLV",
+      "region": "Americas",
+      "subregion": "Central America",
+      "emoji": "🇸🇻",
+      "timezones": "[{'zoneName': 'America/El_Salvador', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}]"
+    },
+    {
+      "id": 1859,
+      "name": "Equatorial Guinea",
+      "iso3_name": "GNQ",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "emoji": "🇬🇶",
+      "timezones": "[{'zoneName': 'Africa/Malabo', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'WAT', 'tzName': 'West Africa Time'}]"
+    },
+    {
+      "id": 1860,
+      "name": "Eritrea",
+      "iso3_name": "ERI",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇪🇷",
+      "timezones": "[{'zoneName': 'Africa/Asmara', 'gmtOffset': 10800, 'gmtOffsetName': 'UTC+03:00', 'abbreviation': 'EAT', 'tzName': 'East Africa Time'}]"
+    },
+    {
+      "id": 1861,
+      "name": "Estonia",
+      "iso3_name": "EST",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇪🇪",
+      "timezones": "Europe/Tallinn"
+    },
+    {
+      "id": 1862,
+      "name": "Ethiopia",
+      "iso3_name": "ETH",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇪🇹",
+      "timezones": "Africa/Addis_Ababa"
+    },
+    {
+      "id": 1863,
+      "name": "Falkland Islands",
+      "iso3_name": "FLK",
+      "region": "Americas",
+      "subregion": "South America",
+      "emoji": "🇫🇰",
+      "timezones": "[{'zoneName': 'Atlantic/Stanley', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'FKST', 'tzName': 'Falkland Islands Summer Time'}]"
+    },
+    {
+      "id": 1864,
+      "name": "Faroe Islands",
+      "iso3_name": "FRO",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇫🇴",
+      "timezones": "GMT"
+    },
+    {
+      "id": 1865,
+      "name": "Fiji Islands",
+      "iso3_name": "FJI",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "emoji": "🇫🇯",
+      "timezones": "[{'zoneName': 'Pacific/Fiji', 'gmtOffset': 43200, 'gmtOffsetName': 'UTC+12:00', 'abbreviation': 'FJT', 'tzName': 'Fiji Time'}]"
+    },
+    {
+      "id": 1866,
+      "name": "Finland",
+      "iso3_name": "FIN",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇫🇮",
+      "timezones": "Europe/Helsinki"
+    },
+    {
+      "id": 1867,
+      "name": "France",
+      "iso3_name": "FRA",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "emoji": "🇫🇷",
+      "timezones": "Europe/Paris"
+    },
+    {
+      "id": 1868,
+      "name": "French Guiana",
+      "iso3_name": "GUF",
+      "region": "Americas",
+      "subregion": "South America",
+      "emoji": "🇬🇫",
+      "timezones": "[{'zoneName': 'America/Cayenne', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'GFT', 'tzName': 'French Guiana Time'}]"
+    },
+    {
+      "id": 1869,
+      "name": "French Polynesia",
+      "iso3_name": "PYF",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "emoji": "🇵🇫",
+      "timezones": "[{'zoneName': 'Pacific/Gambier', 'gmtOffset': -32400, 'gmtOffsetName': 'UTC-09:00', 'abbreviation': 'GAMT', 'tzName': 'Gambier Islands Time'}, {'zoneName': 'Pacific/Marquesas', 'gmtOffset': -34200, 'gmtOffsetName': 'UTC-09:30', 'abbreviation': 'MART', 'tzName': 'Marquesas Islands Time'}, {'zoneName': 'Pacific/Tahiti', 'gmtOffset': -36000, 'gmtOffsetName': 'UTC-10:00', 'abbreviation': 'TAHT', 'tzName': 'Tahiti Time'}]"
+    },
+    {
+      "id": 1870,
+      "name": "French Southern Territories",
+      "iso3_name": "ATF",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "emoji": "🇹🇫",
+      "timezones": "[{'zoneName': 'Indian/Kerguelen', 'gmtOffset': 18000, 'gmtOffsetName': 'UTC+05:00', 'abbreviation': 'TFT', 'tzName': 'French Southern and Antarctic Time'}]"
+    },
+    {
+      "id": 1871,
+      "name": "Gabon",
+      "iso3_name": "GAB",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "emoji": "🇬🇦",
+      "timezones": "[{'zoneName': 'Africa/Libreville', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'WAT', 'tzName': 'West Africa Time'}]"
+    },
+    {
+      "id": 1872,
+      "name": "Gambia",
+      "iso3_name": "GMB",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇬🇲",
+      "timezones": "[{'zoneName': 'Africa/Banjul', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 1873,
+      "name": "Georgia",
+      "iso3_name": "GEO",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇬🇪",
+      "timezones": "[{'zoneName': 'Asia/Tbilisi', 'gmtOffset': 14400, 'gmtOffsetName': 'UTC+04:00', 'abbreviation': 'GET', 'tzName': 'Georgia Standard Time'}]"
+    },
+    {
+      "id": 1874,
+      "name": "Germany",
+      "iso3_name": "DEU",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "emoji": "🇩🇪",
+      "timezones": "Europe/Berlin"
+    },
+    {
+      "id": 1875,
+      "name": "Ghana",
+      "iso3_name": "GHA",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇬🇭",
+      "timezones": "Africa/Accra"
+    },
+    {
+      "id": 1876,
+      "name": "Gibraltar",
+      "iso3_name": "GIB",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇬🇮",
+      "timezones": "Europe/Gibraltar"
+    },
+    {
+      "id": 1877,
+      "name": "Greece",
+      "iso3_name": "GRC",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇬🇷",
+      "timezones": "Europe/Athens"
+    },
+    {
+      "id": 1878,
+      "name": "Greenland",
+      "iso3_name": "GRL",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "emoji": "🇬🇱",
+      "timezones": "[{'zoneName': 'America/Danmarkshavn', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}, {'zoneName': 'America/Nuuk', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'WGT', 'tzName': 'West Greenland Time'}, {'zoneName': 'America/Scoresbysund', 'gmtOffset': -3600, 'gmtOffsetName': 'UTC-01:00', 'abbreviation': 'EGT', 'tzName': 'Eastern Greenland Time'}, {'zoneName': 'America/Thule', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1879,
+      "name": "Grenada",
+      "iso3_name": "GRD",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇬🇩",
+      "timezones": "[{'zoneName': 'America/Grenada', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1880,
+      "name": "Guadeloupe",
+      "iso3_name": "GLP",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇬🇵",
+      "timezones": "[{'zoneName': 'America/Guadeloupe', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1881,
+      "name": "Guam",
+      "iso3_name": "GUM",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "emoji": "🇬🇺",
+      "timezones": "[{'zoneName': 'Pacific/Guam', 'gmtOffset': 36000, 'gmtOffsetName': 'UTC+10:00', 'abbreviation': 'CHST', 'tzName': 'Chamorro Standard Time'}]"
+    },
+    {
+      "id": 1882,
+      "name": "Guatemala",
+      "iso3_name": "GTM",
+      "region": "Americas",
+      "subregion": "Central America",
+      "emoji": "🇬🇹",
+      "timezones": "[{'zoneName': 'America/Guatemala', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}]"
+    },
+    {
+      "id": 1883,
+      "name": "Guernsey and Alderney",
+      "iso3_name": "GGY",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇬🇬",
+      "timezones": "[{'zoneName': 'Europe/Guernsey', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 1884,
+      "name": "Guinea",
+      "iso3_name": "GIN",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇬🇳",
+      "timezones": "[{'zoneName': 'Africa/Conakry', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 1885,
+      "name": "Guinea-Bissau",
+      "iso3_name": "GNB",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇬🇼",
+      "timezones": "[{'zoneName': 'Africa/Bissau', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 1886,
+      "name": "Guyana",
+      "iso3_name": "GUY",
+      "region": "Americas",
+      "subregion": "South America",
+      "emoji": "🇬🇾",
+      "timezones": "[{'zoneName': 'America/Guyana', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'GYT', 'tzName': 'Guyana Time'}]"
+    },
+    {
+      "id": 1887,
+      "name": "Haiti",
+      "iso3_name": "HTI",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇭🇹",
+      "timezones": "[{'zoneName': 'America/Port-au-Prince', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}]"
+    },
+    {
+      "id": 1888,
+      "name": "Heard Island and McDonald Islands",
+      "iso3_name": "HMD",
+      "region": "Polar",
+      "subregion": "Polar",
+      "emoji": "🇭🇲",
+      "timezones": "[{'zoneName': 'Indian/Kerguelen', 'gmtOffset': 18000, 'gmtOffsetName': 'UTC+05:00', 'abbreviation': 'TFT', 'tzName': 'French Southern and Antarctic Time'}]"
+    },
+    {
+      "id": 1889,
+      "name": "Honduras",
+      "iso3_name": "HND",
+      "region": "Americas",
+      "subregion": "Central America",
+      "emoji": "🇭🇳",
+      "timezones": "[{'zoneName': 'America/Tegucigalpa', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}]"
+    },
+    {
+      "id": 1890,
+      "name": "Hong Kong",
+      "iso3_name": "HKG",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "emoji": "🇭🇰",
+      "timezones": "[{'zoneName': 'Asia/Hong_Kong', 'gmtOffset': 28800, 'gmtOffsetName': 'UTC+08:00', 'abbreviation': 'HKT', 'tzName': 'Hong Kong Time'}]"
+    },
+    {
+      "id": 1891,
+      "name": "Hungary",
+      "iso3_name": "HUN",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "emoji": "🇭🇺",
+      "timezones": "Europe/Budapest"
+    },
+    {
+      "id": 1892,
+      "name": "Iceland",
+      "iso3_name": "ISL",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇮🇸",
+      "timezones": "GMT"
+    },
+    {
+      "id": 1893,
+      "name": "India",
+      "iso3_name": "IND",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "emoji": "🇮🇳",
+      "timezones": "Asia/Kolkata"
+    },
+    {
+      "id": 1894,
+      "name": "Indonesia",
+      "iso3_name": "IDN",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "emoji": "🇮🇩",
+      "timezones": "[{'zoneName': 'Asia/Jakarta', 'gmtOffset': 25200, 'gmtOffsetName': 'UTC+07:00', 'abbreviation': 'WIB', 'tzName': 'Western Indonesian Time'}, {'zoneName': 'Asia/Jayapura', 'gmtOffset': 32400, 'gmtOffsetName': 'UTC+09:00', 'abbreviation': 'WIT', 'tzName': 'Eastern Indonesian Time'}, {'zoneName': 'Asia/Makassar', 'gmtOffset': 28800, 'gmtOffsetName': 'UTC+08:00', 'abbreviation': 'WITA', 'tzName': 'Central Indonesia Time'}, {'zoneName': 'Asia/Pontianak', 'gmtOffset': 25200, 'gmtOffsetName': 'UTC+07:00', 'abbreviation': 'WIB', 'tzName': 'Western Indonesian Time'}]"
+    },
+    {
+      "id": 1895,
+      "name": "Iran",
+      "iso3_name": "IRN",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "emoji": "🇮🇷",
+      "timezones": "Iran"
+    },
+    {
+      "id": 1896,
+      "name": "Iraq",
+      "iso3_name": "IRQ",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇮🇶",
+      "timezones": "[{'zoneName': 'Asia/Baghdad', 'gmtOffset': 10800, 'gmtOffsetName': 'UTC+03:00', 'abbreviation': 'AST', 'tzName': 'Arabia Standard Time'}]"
+    },
+    {
+      "id": 1897,
+      "name": "Ireland",
+      "iso3_name": "IRL",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇮🇪",
+      "timezones": "Europe/Dublin"
+    },
+    {
+      "id": 1898,
+      "name": "Israel",
+      "iso3_name": "ISR",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇮🇱",
+      "timezones": "[{'zoneName': 'Asia/Jerusalem', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'IST', 'tzName': 'Israel Standard Time'}]"
+    },
+    {
+      "id": 1899,
+      "name": "Italy",
+      "iso3_name": "ITA",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇮🇹",
+      "timezones": "Europe/Rome"
+    },
+    {
+      "id": 1900,
+      "name": "Jamaica",
+      "iso3_name": "JAM",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇯🇲",
+      "timezones": "[{'zoneName': 'America/Jamaica', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}]"
+    },
+    {
+      "id": 1901,
+      "name": "Japan",
+      "iso3_name": "JPN",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "emoji": "🇯🇵",
+      "timezones": "Japan"
+    },
+    {
+      "id": 1902,
+      "name": "Jersey",
+      "iso3_name": "JEY",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇯🇪",
+      "timezones": "[{'zoneName': 'Europe/Jersey', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 1903,
+      "name": "Jordan",
+      "iso3_name": "JOR",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇯🇴",
+      "timezones": "[{'zoneName': 'Asia/Amman', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'EET', 'tzName': 'Eastern European Time'}]"
+    },
+    {
+      "id": 1904,
+      "name": "Kazakhstan",
+      "iso3_name": "KAZ",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "emoji": "🇰🇿",
+      "timezones": "[{'zoneName': 'Asia/Almaty', 'gmtOffset': 21600, 'gmtOffsetName': 'UTC+06:00', 'abbreviation': 'ALMT', 'tzName': 'Alma-Ata Time[1'}, {'zoneName': 'Asia/Aqtau', 'gmtOffset': 18000, 'gmtOffsetName': 'UTC+05:00', 'abbreviation': 'AQTT', 'tzName': 'Aqtobe Time'}, {'zoneName': 'Asia/Aqtobe', 'gmtOffset': 18000, 'gmtOffsetName': 'UTC+05:00', 'abbreviation': 'AQTT', 'tzName': 'Aqtobe Time'}, {'zoneName': 'Asia/Atyrau', 'gmtOffset': 18000, 'gmtOffsetName': 'UTC+05:00', 'abbreviation': 'MSD+1', 'tzName': 'Moscow Daylight Time+1'}, {'zoneName': 'Asia/Oral', 'gmtOffset': 18000, 'gmtOffsetName': 'UTC+05:00', 'abbreviation': 'ORAT', 'tzName': 'Oral Time'}, {'zoneName': 'Asia/Qostanay', 'gmtOffset': 21600, 'gmtOffsetName': 'UTC+06:00', 'abbreviation': 'QYZST', 'tzName': 'Qyzylorda Summer Time'}, {'zoneName': 'Asia/Qyzylorda', 'gmtOffset': 18000, 'gmtOffsetName': 'UTC+05:00', 'abbreviation': 'QYZT', 'tzName': 'Qyzylorda Summer Time'}]"
+    },
+    {
+      "id": 1905,
+      "name": "Kenya",
+      "iso3_name": "KEN",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇰🇪",
+      "timezones": "Africa/Nairobi"
+    },
+    {
+      "id": 1906,
+      "name": "Kiribati",
+      "iso3_name": "KIR",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "emoji": "🇰🇮",
+      "timezones": "[{'zoneName': 'Pacific/Enderbury', 'gmtOffset': 46800, 'gmtOffsetName': 'UTC+13:00', 'abbreviation': 'PHOT', 'tzName': 'Phoenix Island Time'}, {'zoneName': 'Pacific/Kiritimati', 'gmtOffset': 50400, 'gmtOffsetName': 'UTC+14:00', 'abbreviation': 'LINT', 'tzName': 'Line Islands Time'}, {'zoneName': 'Pacific/Tarawa', 'gmtOffset': 43200, 'gmtOffsetName': 'UTC+12:00', 'abbreviation': 'GILT', 'tzName': 'Gilbert Island Time'}]"
+    },
+    {
+      "id": 1907,
+      "name": "Kosovo",
+      "iso3_name": "XKX",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "emoji": "🇽🇰",
+      "timezones": "[{'zoneName': 'Europe/Belgrade', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'CET', 'tzName': 'Central European Time'}]"
+    },
+    {
+      "id": 1908,
+      "name": "Kuwait",
+      "iso3_name": "KWT",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇰🇼",
+      "timezones": "[{'zoneName': 'Asia/Kuwait', 'gmtOffset': 10800, 'gmtOffsetName': 'UTC+03:00', 'abbreviation': 'AST', 'tzName': 'Arabia Standard Time'}]"
+    },
+    {
+      "id": 1909,
+      "name": "Kyrgyzstan",
+      "iso3_name": "KGZ",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "emoji": "🇰🇬",
+      "timezones": "[{'zoneName': 'Asia/Bishkek', 'gmtOffset': 21600, 'gmtOffsetName': 'UTC+06:00', 'abbreviation': 'KGT', 'tzName': 'Kyrgyzstan Time'}]"
+    },
+    {
+      "id": 1910,
+      "name": "Laos",
+      "iso3_name": "LAO",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "emoji": "🇱🇦",
+      "timezones": "[{'zoneName': 'Asia/Vientiane', 'gmtOffset': 25200, 'gmtOffsetName': 'UTC+07:00', 'abbreviation': 'ICT', 'tzName': 'Indochina Time'}]"
+    },
+    {
+      "id": 1911,
+      "name": "Latvia",
+      "iso3_name": "LVA",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇱🇻",
+      "timezones": "Europe/Riga"
+    },
+    {
+      "id": 1912,
+      "name": "Lebanon",
+      "iso3_name": "LBN",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇱🇧",
+      "timezones": "[{'zoneName': 'Asia/Beirut', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'EET', 'tzName': 'Eastern European Time'}]"
+    },
+    {
+      "id": 1913,
+      "name": "Lesotho",
+      "iso3_name": "LSO",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "emoji": "🇱🇸",
+      "timezones": "[{'zoneName': 'Africa/Maseru', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'SAST', 'tzName': 'South African Standard Time'}]"
+    },
+    {
+      "id": 1914,
+      "name": "Liberia",
+      "iso3_name": "LBR",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇱🇷",
+      "timezones": "[{'zoneName': 'Africa/Monrovia', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 1915,
+      "name": "Libya",
+      "iso3_name": "LBY",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "emoji": "🇱🇾",
+      "timezones": "[{'zoneName': 'Africa/Tripoli', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'EET', 'tzName': 'Eastern European Time'}]"
+    },
+    {
+      "id": 1916,
+      "name": "Liechtenstein",
+      "iso3_name": "LIE",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "emoji": "🇱🇮",
+      "timezones": "Europe/Vaduz"
+    },
+    {
+      "id": 1917,
+      "name": "Lithuania",
+      "iso3_name": "LTU",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇱🇹",
+      "timezones": "Europe/Vilnius"
+    },
+    {
+      "id": 1918,
+      "name": "Luxembourg",
+      "iso3_name": "LUX",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "emoji": "🇱🇺",
+      "timezones": "Europe/Luxembourg"
+    },
+    {
+      "id": 1919,
+      "name": "Macau S.A.R.",
+      "iso3_name": "MAC",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "emoji": "🇲🇴",
+      "timezones": "[{'zoneName': 'Asia/Macau', 'gmtOffset': 28800, 'gmtOffsetName': 'UTC+08:00', 'abbreviation': 'CST', 'tzName': 'China Standard Time'}]"
+    },
+    {
+      "id": 1920,
+      "name": "Macedonia",
+      "iso3_name": "MKD",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇲🇰",
+      "timezones": "[{'zoneName': 'Europe/Skopje', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'CET', 'tzName': 'Central European Time'}]"
+    },
+    {
+      "id": 1921,
+      "name": "Madagascar",
+      "iso3_name": "MDG",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇲🇬",
+      "timezones": "[{'zoneName': 'Indian/Antananarivo', 'gmtOffset': 10800, 'gmtOffsetName': 'UTC+03:00', 'abbreviation': 'EAT', 'tzName': 'East Africa Time'}]"
+    },
+    {
+      "id": 1922,
+      "name": "Malawi",
+      "iso3_name": "MWI",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇲🇼",
+      "timezones": "[{'zoneName': 'Africa/Blantyre', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'CAT', 'tzName': 'Central Africa Time'}]"
+    },
+    {
+      "id": 1923,
+      "name": "Malaysia",
+      "iso3_name": "MYS",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "emoji": "🇲🇾",
+      "timezones": "[{'zoneName': 'Asia/Kuala_Lumpur', 'gmtOffset': 28800, 'gmtOffsetName': 'UTC+08:00', 'abbreviation': 'MYT', 'tzName': 'Malaysia Time'}, {'zoneName': 'Asia/Kuching', 'gmtOffset': 28800, 'gmtOffsetName': 'UTC+08:00', 'abbreviation': 'MYT', 'tzName': 'Malaysia Time'}]"
+    },
+    {
+      "id": 1924,
+      "name": "Maldives",
+      "iso3_name": "MDV",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "emoji": "🇲🇻",
+      "timezones": "[{'zoneName': 'Indian/Maldives', 'gmtOffset': 18000, 'gmtOffsetName': 'UTC+05:00', 'abbreviation': 'MVT', 'tzName': 'Maldives Time'}]"
+    },
+    {
+      "id": 1925,
+      "name": "Mali",
+      "iso3_name": "MLI",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇲🇱",
+      "timezones": "[{'zoneName': 'Africa/Bamako', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 1926,
+      "name": "Malta",
+      "iso3_name": "MLT",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇲🇹",
+      "timezones": "Europe/Malta"
+    },
+    {
+      "id": 1927,
+      "name": "Man (Isle of)",
+      "iso3_name": "IMN",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇮🇲",
+      "timezones": "[{'zoneName': 'Europe/Isle_of_Man', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 1928,
+      "name": "Marshall Islands",
+      "iso3_name": "MHL",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "emoji": "🇲🇭",
+      "timezones": "[{'zoneName': 'Pacific/Kwajalein', 'gmtOffset': 43200, 'gmtOffsetName': 'UTC+12:00', 'abbreviation': 'MHT', 'tzName': 'Marshall Islands Time'}, {'zoneName': 'Pacific/Majuro', 'gmtOffset': 43200, 'gmtOffsetName': 'UTC+12:00', 'abbreviation': 'MHT', 'tzName': 'Marshall Islands Time'}]"
+    },
+    {
+      "id": 1929,
+      "name": "Martinique",
+      "iso3_name": "MTQ",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇲🇶",
+      "timezones": "[{'zoneName': 'America/Martinique', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1930,
+      "name": "Mauritania",
+      "iso3_name": "MRT",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇲🇷",
+      "timezones": "[{'zoneName': 'Africa/Nouakchott', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 1931,
+      "name": "Mauritius",
+      "iso3_name": "MUS",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇲🇺",
+      "timezones": "[{'zoneName': 'Indian/Mauritius', 'gmtOffset': 14400, 'gmtOffsetName': 'UTC+04:00', 'abbreviation': 'MUT', 'tzName': 'Mauritius Time'}]"
+    },
+    {
+      "id": 1932,
+      "name": "Mayotte",
+      "iso3_name": "MYT",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇾🇹",
+      "timezones": "[{'zoneName': 'Indian/Mayotte', 'gmtOffset': 10800, 'gmtOffsetName': 'UTC+03:00', 'abbreviation': 'EAT', 'tzName': 'East Africa Time'}]"
+    },
+    {
+      "id": 1933,
+      "name": "Mexico",
+      "iso3_name": "MEX",
+      "region": "Americas",
+      "subregion": "Central America",
+      "emoji": "🇲🇽",
+      "timezones": "[{'zoneName': 'America/Bahia_Banderas', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/Cancun', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Chihuahua', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America'}, {'zoneName': 'America/Hermosillo', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America'}, {'zoneName': 'America/Matamoros', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/Mazatlan', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America'}, {'zoneName': 'America/Merida', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/Mexico_City', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/Monterrey', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/Ojinaga', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America'}, {'zoneName': 'America/Tijuana', 'gmtOffset': -28800, 'gmtOffsetName': 'UTC-08:00', 'abbreviation': 'PST', 'tzName': 'Pacific Standard Time (North America'}]"
+    },
+    {
+      "id": 1934,
+      "name": "Micronesia",
+      "iso3_name": "FSM",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "emoji": "🇫🇲",
+      "timezones": "[{'zoneName': 'Pacific/Chuuk', 'gmtOffset': 36000, 'gmtOffsetName': 'UTC+10:00', 'abbreviation': 'CHUT', 'tzName': 'Chuuk Time'}, {'zoneName': 'Pacific/Kosrae', 'gmtOffset': 39600, 'gmtOffsetName': 'UTC+11:00', 'abbreviation': 'KOST', 'tzName': 'Kosrae Time'}, {'zoneName': 'Pacific/Pohnpei', 'gmtOffset': 39600, 'gmtOffsetName': 'UTC+11:00', 'abbreviation': 'PONT', 'tzName': 'Pohnpei Standard Time'}]"
+    },
+    {
+      "id": 1935,
+      "name": "Moldova",
+      "iso3_name": "MDA",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "emoji": "🇲🇩",
+      "timezones": "Europe/Chisinau"
+    },
+    {
+      "id": 1936,
+      "name": "Monaco",
+      "iso3_name": "MCO",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "emoji": "🇲🇨",
+      "timezones": "Europe/Monaco"
+    },
+    {
+      "id": 1937,
+      "name": "Mongolia",
+      "iso3_name": "MNG",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "emoji": "🇲🇳",
+      "timezones": "[{'zoneName': 'Asia/Choibalsan', 'gmtOffset': 28800, 'gmtOffsetName': 'UTC+08:00', 'abbreviation': 'CHOT', 'tzName': 'Choibalsan Standard Time'}, {'zoneName': 'Asia/Hovd', 'gmtOffset': 25200, 'gmtOffsetName': 'UTC+07:00', 'abbreviation': 'HOVT', 'tzName': 'Hovd Time'}, {'zoneName': 'Asia/Ulaanbaatar', 'gmtOffset': 28800, 'gmtOffsetName': 'UTC+08:00', 'abbreviation': 'ULAT', 'tzName': 'Ulaanbaatar Standard Time'}]"
+    },
+    {
+      "id": 1938,
+      "name": "Montenegro",
+      "iso3_name": "MNE",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇲🇪",
+      "timezones": "Europe/Podgorica"
+    },
+    {
+      "id": 1939,
+      "name": "Montserrat",
+      "iso3_name": "MSR",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇲🇸",
+      "timezones": "[{'zoneName': 'America/Montserrat', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1940,
+      "name": "Morocco",
+      "iso3_name": "MAR",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "emoji": "🇲🇦",
+      "timezones": "[{'zoneName': 'Africa/Casablanca', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'WEST', 'tzName': 'Western European Summer Time'}]"
+    },
+    {
+      "id": 1941,
+      "name": "Mozambique",
+      "iso3_name": "MOZ",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇲🇿",
+      "timezones": "[{'zoneName': 'Africa/Maputo', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'CAT', 'tzName': 'Central Africa Time'}]"
+    },
+    {
+      "id": 1942,
+      "name": "Myanmar",
+      "iso3_name": "MMR",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "emoji": "🇲🇲",
+      "timezones": "Asia/Yangon"
+    },
+    {
+      "id": 1943,
+      "name": "Namibia",
+      "iso3_name": "NAM",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "emoji": "🇳🇦",
+      "timezones": "[{'zoneName': 'Africa/Windhoek', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'WAST', 'tzName': 'West Africa Summer Time'}]"
+    },
+    {
+      "id": 1944,
+      "name": "Nauru",
+      "iso3_name": "NRU",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "emoji": "🇳🇷",
+      "timezones": "[{'zoneName': 'Pacific/Nauru', 'gmtOffset': 43200, 'gmtOffsetName': 'UTC+12:00', 'abbreviation': 'NRT', 'tzName': 'Nauru Time'}]"
+    },
+    {
+      "id": 1945,
+      "name": "Nepal",
+      "iso3_name": "NPL",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "emoji": "🇳🇵",
+      "timezones": "[{'zoneName': 'Asia/Kathmandu', 'gmtOffset': 20700, 'gmtOffsetName': 'UTC+05:45', 'abbreviation': 'NPT', 'tzName': 'Nepal Time'}]"
+    },
+    {
+      "id": 1946,
+      "name": "Netherlands",
+      "iso3_name": "NLD",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "emoji": "🇳🇱",
+      "timezones": "Europe/Amsterdam"
+    },
+    {
+      "id": 1947,
+      "name": "New Caledonia",
+      "iso3_name": "NCL",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "emoji": "🇳🇨",
+      "timezones": "[{'zoneName': 'Pacific/Noumea', 'gmtOffset': 39600, 'gmtOffsetName': 'UTC+11:00', 'abbreviation': 'NCT', 'tzName': 'New Caledonia Time'}]"
+    },
+    {
+      "id": 1948,
+      "name": "New Zealand",
+      "iso3_name": "NZL",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "emoji": "🇳🇿",
+      "timezones": "[{'zoneName': 'Pacific/Auckland', 'gmtOffset': 46800, 'gmtOffsetName': 'UTC+13:00', 'abbreviation': 'NZDT', 'tzName': 'New Zealand Daylight Time'}, {'zoneName': 'Pacific/Chatham', 'gmtOffset': 49500, 'gmtOffsetName': 'UTC+13:45', 'abbreviation': 'CHAST', 'tzName': 'Chatham Standard Time'}]"
+    },
+    {
+      "id": 1949,
+      "name": "Nicaragua",
+      "iso3_name": "NIC",
+      "region": "Americas",
+      "subregion": "Central America",
+      "emoji": "🇳🇮",
+      "timezones": "[{'zoneName': 'America/Managua', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}]"
+    },
+    {
+      "id": 1950,
+      "name": "Niger",
+      "iso3_name": "NER",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇳🇪",
+      "timezones": "[{'zoneName': 'Africa/Niamey', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'WAT', 'tzName': 'West Africa Time'}]"
+    },
+    {
+      "id": 1951,
+      "name": "Nigeria",
+      "iso3_name": "NGA",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇳🇬",
+      "timezones": "Africa/Lagos"
+    },
+    {
+      "id": 1952,
+      "name": "Niue",
+      "iso3_name": "NIU",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "emoji": "🇳🇺",
+      "timezones": "[{'zoneName': 'Pacific/Niue', 'gmtOffset': -39600, 'gmtOffsetName': 'UTC-11:00', 'abbreviation': 'NUT', 'tzName': 'Niue Time'}]"
+    },
+    {
+      "id": 1953,
+      "name": "Norfolk Island",
+      "iso3_name": "NFK",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "emoji": "🇳🇫",
+      "timezones": "[{'zoneName': 'Pacific/Norfolk', 'gmtOffset': 43200, 'gmtOffsetName': 'UTC+12:00', 'abbreviation': 'NFT', 'tzName': 'Norfolk Time'}]"
+    },
+    {
+      "id": 1954,
+      "name": "North Korea",
+      "iso3_name": "PRK",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "emoji": "🇰🇵",
+      "timezones": "[{'zoneName': 'Asia/Pyongyang', 'gmtOffset': 32400, 'gmtOffsetName': 'UTC+09:00', 'abbreviation': 'KST', 'tzName': 'Korea Standard Time'}]"
+    },
+    {
+      "id": 1955,
+      "name": "Northern Mariana Islands",
+      "iso3_name": "MNP",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "emoji": "🇲🇵",
+      "timezones": "[{'zoneName': 'Pacific/Saipan', 'gmtOffset': 36000, 'gmtOffsetName': 'UTC+10:00', 'abbreviation': 'ChST', 'tzName': 'Chamorro Standard Time'}]"
+    },
+    {
+      "id": 1956,
+      "name": "Norway",
+      "iso3_name": "NOR",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇳🇴",
+      "timezones": "Europe/Oslo"
+    },
+    {
+      "id": 1957,
+      "name": "Oman",
+      "iso3_name": "OMN",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇴🇲",
+      "timezones": "[{'zoneName': 'Asia/Muscat', 'gmtOffset': 14400, 'gmtOffsetName': 'UTC+04:00', 'abbreviation': 'GST', 'tzName': 'Gulf Standard Time'}]"
+    },
+    {
+      "id": 1958,
+      "name": "Pakistan",
+      "iso3_name": "PAK",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "emoji": "🇵🇰",
+      "timezones": "Asia/Karachi"
+    },
+    {
+      "id": 1959,
+      "name": "Palau",
+      "iso3_name": "PLW",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "emoji": "🇵🇼",
+      "timezones": "[{'zoneName': 'Pacific/Palau', 'gmtOffset': 32400, 'gmtOffsetName': 'UTC+09:00', 'abbreviation': 'PWT', 'tzName': 'Palau Time'}]"
+    },
+    {
+      "id": 1960,
+      "name": "Palestinian Territory Occupied",
+      "iso3_name": "PSE",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇵🇸",
+      "timezones": "[{'zoneName': 'Asia/Gaza', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'EET', 'tzName': 'Eastern European Time'}, {'zoneName': 'Asia/Hebron', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'EET', 'tzName': 'Eastern European Time'}]"
+    },
+    {
+      "id": 1961,
+      "name": "Panama",
+      "iso3_name": "PAN",
+      "region": "Americas",
+      "subregion": "Central America",
+      "emoji": "🇵🇦",
+      "timezones": "[{'zoneName': 'America/Panama', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}]"
+    },
+    {
+      "id": 1962,
+      "name": "Papua new Guinea",
+      "iso3_name": "PNG",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "emoji": "🇵🇬",
+      "timezones": "[{'zoneName': 'Pacific/Bougainville', 'gmtOffset': 39600, 'gmtOffsetName': 'UTC+11:00', 'abbreviation': 'BST', 'tzName': 'Bougainville Standard Time[6'}, {'zoneName': 'Pacific/Port_Moresby', 'gmtOffset': 36000, 'gmtOffsetName': 'UTC+10:00', 'abbreviation': 'PGT', 'tzName': 'Papua New Guinea Time'}]"
+    },
+    {
+      "id": 1963,
+      "name": "Paraguay",
+      "iso3_name": "PRY",
+      "region": "Americas",
+      "subregion": "South America",
+      "emoji": "🇵🇾",
+      "timezones": "[{'zoneName': 'America/Asuncion', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'PYST', 'tzName': 'Paraguay Summer Time'}]"
+    },
+    {
+      "id": 1964,
+      "name": "Peru",
+      "iso3_name": "PER",
+      "region": "Americas",
+      "subregion": "South America",
+      "emoji": "🇵🇪",
+      "timezones": "[{'zoneName': 'America/Lima', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'PET', 'tzName': 'Peru Time'}]"
+    },
+    {
+      "id": 1965,
+      "name": "Philippines",
+      "iso3_name": "PHL",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "emoji": "🇵🇭",
+      "timezones": "[{'zoneName': 'Asia/Manila', 'gmtOffset': 28800, 'gmtOffsetName': 'UTC+08:00', 'abbreviation': 'PHT', 'tzName': 'Philippine Time'}]"
+    },
+    {
+      "id": 1966,
+      "name": "Pitcairn Island",
+      "iso3_name": "PCN",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "emoji": "🇵🇳",
+      "timezones": "[{'zoneName': 'Pacific/Pitcairn', 'gmtOffset': -28800, 'gmtOffsetName': 'UTC-08:00', 'abbreviation': 'PST', 'tzName': 'Pacific Standard Time (North America'}]"
+    },
+    {
+      "id": 1967,
+      "name": "Poland",
+      "iso3_name": "POL",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "emoji": "🇵🇱",
+      "timezones": "Europe/Warsaw"
+    },
+    {
+      "id": 1968,
+      "name": "Portugal",
+      "iso3_name": "PRT",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇵🇹",
+      "timezones": "Europe/Lisbon"
+    },
+    {
+      "id": 1969,
+      "name": "Puerto Rico",
+      "iso3_name": "PRI",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇵🇷",
+      "timezones": "[{'zoneName': 'America/Puerto_Rico', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1970,
+      "name": "Qatar",
+      "iso3_name": "QAT",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇶🇦",
+      "timezones": "[{'zoneName': 'Asia/Qatar', 'gmtOffset': 10800, 'gmtOffsetName': 'UTC+03:00', 'abbreviation': 'AST', 'tzName': 'Arabia Standard Time'}]"
+    },
+    {
+      "id": 1971,
+      "name": "Reunion",
+      "iso3_name": "REU",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇷🇪",
+      "timezones": "[{'zoneName': 'Indian/Reunion', 'gmtOffset': 14400, 'gmtOffsetName': 'UTC+04:00', 'abbreviation': 'RET', 'tzName': 'Réunion Time'}]"
+    },
+    {
+      "id": 1972,
+      "name": "Romania",
+      "iso3_name": "ROU",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "emoji": "🇷🇴",
+      "timezones": "Europe/Bucharest"
+    },
+    {
+      "id": 1973,
+      "name": "Russia",
+      "iso3_name": "RUS",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "emoji": "🇷🇺",
+      "timezones": "Europe/Moscow"
+    },
+    {
+      "id": 1974,
+      "name": "Rwanda",
+      "iso3_name": "RWA",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇷🇼",
+      "timezones": "[{'zoneName': 'Africa/Kigali', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'CAT', 'tzName': 'Central Africa Time'}]"
+    },
+    {
+      "id": 1975,
+      "name": "Saint Helena",
+      "iso3_name": "SHN",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇸🇭",
+      "timezones": "[{'zoneName': 'Atlantic/St_Helena', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 1976,
+      "name": "Saint Kitts And Nevis",
+      "iso3_name": "KNA",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇰🇳",
+      "timezones": "[{'zoneName': 'America/St_Kitts', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1977,
+      "name": "Saint Lucia",
+      "iso3_name": "LCA",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇱🇨",
+      "timezones": "[{'zoneName': 'America/St_Lucia', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1978,
+      "name": "Saint Pierre and Miquelon",
+      "iso3_name": "SPM",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "emoji": "🇵🇲",
+      "timezones": "[{'zoneName': 'America/Miquelon', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'PMDT', 'tzName': 'Pierre & Miquelon Daylight Time'}]"
+    },
+    {
+      "id": 1979,
+      "name": "Saint Vincent And The Grenadines",
+      "iso3_name": "VCT",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇻🇨",
+      "timezones": "[{'zoneName': 'America/St_Vincent', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1980,
+      "name": "Saint-Barthelemy",
+      "iso3_name": "BLM",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇧🇱",
+      "timezones": "[{'zoneName': 'America/St_Barthelemy', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1981,
+      "name": "Saint-Martin (French part)",
+      "iso3_name": "MAF",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇲🇫",
+      "timezones": "[{'zoneName': 'America/Marigot', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1982,
+      "name": "Samoa",
+      "iso3_name": "WSM",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "emoji": "🇼🇸",
+      "timezones": "[{'zoneName': 'Pacific/Apia', 'gmtOffset': 50400, 'gmtOffsetName': 'UTC+14:00', 'abbreviation': 'WST', 'tzName': 'West Samoa Time'}]"
+    },
+    {
+      "id": 1983,
+      "name": "San Marino",
+      "iso3_name": "SMR",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇸🇲",
+      "timezones": "Europe/San_Marino"
+    },
+    {
+      "id": 1984,
+      "name": "Sao Tome and Principe",
+      "iso3_name": "STP",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "emoji": "🇸🇹",
+      "timezones": "[{'zoneName': 'Africa/Sao_Tome', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 1985,
+      "name": "Saudi Arabia",
+      "iso3_name": "SAU",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇸🇦",
+      "timezones": "[{'zoneName': 'Asia/Riyadh', 'gmtOffset': 10800, 'gmtOffsetName': 'UTC+03:00', 'abbreviation': 'AST', 'tzName': 'Arabia Standard Time'}]"
+    },
+    {
+      "id": 1986,
+      "name": "Senegal",
+      "iso3_name": "SEN",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇸🇳",
+      "timezones": "[{'zoneName': 'Africa/Dakar', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 1987,
+      "name": "Serbia",
+      "iso3_name": "SRB",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇷🇸",
+      "timezones": "Europe/Belgrade"
+    },
+    {
+      "id": 1988,
+      "name": "Seychelles",
+      "iso3_name": "SYC",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇸🇨",
+      "timezones": "[{'zoneName': 'Indian/Mahe', 'gmtOffset': 14400, 'gmtOffsetName': 'UTC+04:00', 'abbreviation': 'SCT', 'tzName': 'Seychelles Time'}]"
+    },
+    {
+      "id": 1989,
+      "name": "Sierra Leone",
+      "iso3_name": "SLE",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇸🇱",
+      "timezones": "[{'zoneName': 'Africa/Freetown', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 1990,
+      "name": "Singapore",
+      "iso3_name": "SGP",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "emoji": "🇸🇬",
+      "timezones": "Asia/Singapore"
+    },
+    {
+      "id": 1991,
+      "name": "Sint Maarten (Dutch part)",
+      "iso3_name": "SXM",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇸🇽",
+      "timezones": "[{'zoneName': 'America/Anguilla', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 1992,
+      "name": "Slovakia",
+      "iso3_name": "SVK",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "emoji": "🇸🇰",
+      "timezones": "Europe/Bratislava"
+    },
+    {
+      "id": 1993,
+      "name": "Slovenia",
+      "iso3_name": "SVN",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇸🇮",
+      "timezones": "Europe/Ljubljana"
+    },
+    {
+      "id": 1994,
+      "name": "Solomon Islands",
+      "iso3_name": "SLB",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "emoji": "🇸🇧",
+      "timezones": "[{'zoneName': 'Pacific/Guadalcanal', 'gmtOffset': 39600, 'gmtOffsetName': 'UTC+11:00', 'abbreviation': 'SBT', 'tzName': 'Solomon Islands Time'}]"
+    },
+    {
+      "id": 1995,
+      "name": "Somalia",
+      "iso3_name": "SOM",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇸🇴",
+      "timezones": "[{'zoneName': 'Africa/Mogadishu', 'gmtOffset': 10800, 'gmtOffsetName': 'UTC+03:00', 'abbreviation': 'EAT', 'tzName': 'East Africa Time'}]"
+    },
+    {
+      "id": 1996,
+      "name": "South Africa",
+      "iso3_name": "ZAF",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "emoji": "🇿🇦",
+      "timezones": "Africa/Johannesburg"
+    },
+    {
+      "id": 1997,
+      "name": "South Georgia",
+      "iso3_name": "SGS",
+      "region": "Americas",
+      "subregion": "South America",
+      "emoji": "🇬🇸",
+      "timezones": "[{'zoneName': 'Atlantic/South_Georgia', 'gmtOffset': -7200, 'gmtOffsetName': 'UTC-02:00', 'abbreviation': 'GST', 'tzName': 'South Georgia and the South Sandwich Islands Time'}]"
+    },
+    {
+      "id": 1998,
+      "name": "South Korea",
+      "iso3_name": "KOR",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "emoji": "🇰🇷",
+      "timezones": "[{'zoneName': 'Asia/Seoul', 'gmtOffset': 32400, 'gmtOffsetName': 'UTC+09:00', 'abbreviation': 'KST', 'tzName': 'Korea Standard Time'}]"
+    },
+    {
+      "id": 1999,
+      "name": "South Sudan",
+      "iso3_name": "SSD",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "emoji": "🇸🇸",
+      "timezones": "[{'zoneName': 'Africa/Juba', 'gmtOffset': 10800, 'gmtOffsetName': 'UTC+03:00', 'abbreviation': 'EAT', 'tzName': 'East Africa Time'}]"
+    },
+    {
+      "id": 2000,
+      "name": "Spain",
+      "iso3_name": "ESP",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇪🇸",
+      "timezones": "Europe/Madrid"
+    },
+    {
+      "id": 2001,
+      "name": "Sri Lanka",
+      "iso3_name": "LKA",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "emoji": "🇱🇰",
+      "timezones": "[{'zoneName': 'Asia/Colombo', 'gmtOffset': 19800, 'gmtOffsetName': 'UTC+05:30', 'abbreviation': 'IST', 'tzName': 'Indian Standard Time'}]"
+    },
+    {
+      "id": 2002,
+      "name": "Sudan",
+      "iso3_name": "SDN",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "emoji": "🇸🇩",
+      "timezones": "[{'zoneName': 'Africa/Khartoum', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'EAT', 'tzName': 'Eastern African Time'}]"
+    },
+    {
+      "id": 2003,
+      "name": "Suriname",
+      "iso3_name": "SUR",
+      "region": "Americas",
+      "subregion": "South America",
+      "emoji": "🇸🇷",
+      "timezones": "[{'zoneName': 'America/Paramaribo', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'SRT', 'tzName': 'Suriname Time'}]"
+    },
+    {
+      "id": 2004,
+      "name": "Svalbard And Jan Mayen Islands",
+      "iso3_name": "SJM",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇸🇯",
+      "timezones": "[{'zoneName': 'Arctic/Longyearbyen', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'CET', 'tzName': 'Central European Time'}]"
+    },
+    {
+      "id": 2005,
+      "name": "Swaziland",
+      "iso3_name": "SWZ",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "emoji": "🇸🇿",
+      "timezones": "[{'zoneName': 'Africa/Mbabane', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'SAST', 'tzName': 'South African Standard Time'}]"
+    },
+    {
+      "id": 2006,
+      "name": "Sweden",
+      "iso3_name": "SWE",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇸🇪",
+      "timezones": "Europe/Stockholm"
+    },
+    {
+      "id": 2007,
+      "name": "Switzerland",
+      "iso3_name": "CHE",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "emoji": "🇨🇭",
+      "timezones": "Europe/Zurich"
+    },
+    {
+      "id": 2008,
+      "name": "Syria",
+      "iso3_name": "SYR",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇸🇾",
+      "timezones": "[{'zoneName': 'Asia/Damascus', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'EET', 'tzName': 'Eastern European Time'}]"
+    },
+    {
+      "id": 2009,
+      "name": "Taiwan",
+      "iso3_name": "TWN",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "emoji": "🇹🇼",
+      "timezones": "[{'zoneName': 'Asia/Taipei', 'gmtOffset': 28800, 'gmtOffsetName': 'UTC+08:00', 'abbreviation': 'CST', 'tzName': 'China Standard Time'}]"
+    },
+    {
+      "id": 2010,
+      "name": "Tajikistan",
+      "iso3_name": "TJK",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "emoji": "🇹🇯",
+      "timezones": "[{'zoneName': 'Asia/Dushanbe', 'gmtOffset': 18000, 'gmtOffsetName': 'UTC+05:00', 'abbreviation': 'TJT', 'tzName': 'Tajikistan Time'}]"
+    },
+    {
+      "id": 2011,
+      "name": "Tanzania",
+      "iso3_name": "TZA",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇹🇿",
+      "timezones": "Africa/Dar_es_Salaam"
+    },
+    {
+      "id": 2012,
+      "name": "Thailand",
+      "iso3_name": "THA",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "emoji": "🇹🇭",
+      "timezones": "[{'zoneName': 'Asia/Bangkok', 'gmtOffset': 25200, 'gmtOffsetName': 'UTC+07:00', 'abbreviation': 'ICT', 'tzName': 'Indochina Time'}]"
+    },
+    {
+      "id": 2013,
+      "name": "Togo",
+      "iso3_name": "TGO",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "emoji": "🇹🇬",
+      "timezones": "[{'zoneName': 'Africa/Lome', 'gmtOffset': 0, 'gmtOffsetName': 'UTC±00', 'abbreviation': 'GMT', 'tzName': 'Greenwich Mean Time'}]"
+    },
+    {
+      "id": 2014,
+      "name": "Tokelau",
+      "iso3_name": "TKL",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "emoji": "🇹🇰",
+      "timezones": "[{'zoneName': 'Pacific/Fakaofo', 'gmtOffset': 46800, 'gmtOffsetName': 'UTC+13:00', 'abbreviation': 'TKT', 'tzName': 'Tokelau Time'}]"
+    },
+    {
+      "id": 2015,
+      "name": "Tonga",
+      "iso3_name": "TON",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "emoji": "🇹🇴",
+      "timezones": "[{'zoneName': 'Pacific/Tongatapu', 'gmtOffset': 46800, 'gmtOffsetName': 'UTC+13:00', 'abbreviation': 'TOT', 'tzName': 'Tonga Time'}]"
+    },
+    {
+      "id": 2016,
+      "name": "Trinidad And Tobago",
+      "iso3_name": "TTO",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇹🇹",
+      "timezones": "[{'zoneName': 'America/Port_of_Spain', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 2017,
+      "name": "Tunisia",
+      "iso3_name": "TUN",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "emoji": "🇹🇳",
+      "timezones": "[{'zoneName': 'Africa/Tunis', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'CET', 'tzName': 'Central European Time'}]"
+    },
+    {
+      "id": 2018,
+      "name": "Turkey",
+      "iso3_name": "TUR",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇹🇷",
+      "timezones": "Turkey"
+    },
+    {
+      "id": 2019,
+      "name": "Turkmenistan",
+      "iso3_name": "TKM",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "emoji": "🇹🇲",
+      "timezones": "[{'zoneName': 'Asia/Ashgabat', 'gmtOffset': 18000, 'gmtOffsetName': 'UTC+05:00', 'abbreviation': 'TMT', 'tzName': 'Turkmenistan Time'}]"
+    },
+    {
+      "id": 2020,
+      "name": "Turks And Caicos Islands",
+      "iso3_name": "TCA",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇹🇨",
+      "timezones": "[{'zoneName': 'America/Grand_Turk', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}]"
+    },
+    {
+      "id": 2021,
+      "name": "Tuvalu",
+      "iso3_name": "TUV",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "emoji": "🇹🇻",
+      "timezones": "[{'zoneName': 'Pacific/Funafuti', 'gmtOffset': 43200, 'gmtOffsetName': 'UTC+12:00', 'abbreviation': 'TVT', 'tzName': 'Tuvalu Time'}]"
+    },
+    {
+      "id": 2022,
+      "name": "Uganda",
+      "iso3_name": "UGA",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇺🇬",
+      "timezones": "[{'zoneName': 'Africa/Kampala', 'gmtOffset': 10800, 'gmtOffsetName': 'UTC+03:00', 'abbreviation': 'EAT', 'tzName': 'East Africa Time'}]"
+    },
+    {
+      "id": 2023,
+      "name": "Ukraine",
+      "iso3_name": "UKR",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "emoji": "🇺🇦",
+      "timezones": "Europe/Kiev"
+    },
+    {
+      "id": 2024,
+      "name": "United Arab Emirates",
+      "iso3_name": "ARE",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇦🇪",
+      "timezones": "[{'zoneName': 'Asia/Dubai', 'gmtOffset': 14400, 'gmtOffsetName': 'UTC+04:00', 'abbreviation': 'GST', 'tzName': 'Gulf Standard Time'}]"
+    },
+    {
+      "id": 2025,
+      "name": "United Kingdom",
+      "iso3_name": "GBR",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "emoji": "🇬🇧",
+      "timezones": "Europe/London"
+    },
+    {
+      "id": 2026,
+      "name": "United States",
+      "iso3_name": "USA",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "emoji": "🇺🇸",
+      "timezones": "[{'zoneName': 'America/Adak', 'gmtOffset': -36000, 'gmtOffsetName': 'UTC-10:00', 'abbreviation': 'HST', 'tzName': 'Hawaii–Aleutian Standard Time'}, {'zoneName': 'America/Anchorage', 'gmtOffset': -32400, 'gmtOffsetName': 'UTC-09:00', 'abbreviation': 'AKST', 'tzName': 'Alaska Standard Time'}, {'zoneName': 'America/Boise', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America'}, {'zoneName': 'America/Chicago', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/Denver', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America'}, {'zoneName': 'America/Detroit', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Indiana/Indianapolis', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Indiana/Knox', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/Indiana/Marengo', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Indiana/Petersburg', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Indiana/Tell_City', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/Indiana/Vevay', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Indiana/Vincennes', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Indiana/Winamac', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Juneau', 'gmtOffset': -32400, 'gmtOffsetName': 'UTC-09:00', 'abbreviation': 'AKST', 'tzName': 'Alaska Standard Time'}, {'zoneName': 'America/Kentucky/Louisville', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Kentucky/Monticello', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Los_Angeles', 'gmtOffset': -28800, 'gmtOffsetName': 'UTC-08:00', 'abbreviation': 'PST', 'tzName': 'Pacific Standard Time (North America'}, {'zoneName': 'America/Menominee', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/Metlakatla', 'gmtOffset': -32400, 'gmtOffsetName': 'UTC-09:00', 'abbreviation': 'AKST', 'tzName': 'Alaska Standard Time'}, {'zoneName': 'America/New_York', 'gmtOffset': -18000, 'gmtOffsetName': 'UTC-05:00', 'abbreviation': 'EST', 'tzName': 'Eastern Standard Time (North America'}, {'zoneName': 'America/Nome', 'gmtOffset': -32400, 'gmtOffsetName': 'UTC-09:00', 'abbreviation': 'AKST', 'tzName': 'Alaska Standard Time'}, {'zoneName': 'America/North_Dakota/Beulah', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/North_Dakota/Center', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/North_Dakota/New_Salem', 'gmtOffset': -21600, 'gmtOffsetName': 'UTC-06:00', 'abbreviation': 'CST', 'tzName': 'Central Standard Time (North America'}, {'zoneName': 'America/Phoenix', 'gmtOffset': -25200, 'gmtOffsetName': 'UTC-07:00', 'abbreviation': 'MST', 'tzName': 'Mountain Standard Time (North America'}, {'zoneName': 'America/Sitka', 'gmtOffset': -32400, 'gmtOffsetName': 'UTC-09:00', 'abbreviation': 'AKST', 'tzName': 'Alaska Standard Time'}, {'zoneName': 'America/Yakutat', 'gmtOffset': -32400, 'gmtOffsetName': 'UTC-09:00', 'abbreviation': 'AKST', 'tzName': 'Alaska Standard Time'}, {'zoneName': 'Pacific/Honolulu', 'gmtOffset': -36000, 'gmtOffsetName': 'UTC-10:00', 'abbreviation': 'HST', 'tzName': 'Hawaii–Aleutian Standard Time'}]"
+    },
+    {
+      "id": 2027,
+      "name": "United States Minor Outlying Islands",
+      "iso3_name": "UMI",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "emoji": "🇺🇲",
+      "timezones": "[{'zoneName': 'Pacific/Midway', 'gmtOffset': -39600, 'gmtOffsetName': 'UTC-11:00', 'abbreviation': 'SST', 'tzName': 'Samoa Standard Time'}, {'zoneName': 'Pacific/Wake', 'gmtOffset': 43200, 'gmtOffsetName': 'UTC+12:00', 'abbreviation': 'WAKT', 'tzName': 'Wake Island Time'}]"
+    },
+    {
+      "id": 2028,
+      "name": "Uruguay",
+      "iso3_name": "URY",
+      "region": "Americas",
+      "subregion": "South America",
+      "emoji": "🇺🇾",
+      "timezones": "[{'zoneName': 'America/Montevideo', 'gmtOffset': -10800, 'gmtOffsetName': 'UTC-03:00', 'abbreviation': 'UYT', 'tzName': 'Uruguay Standard Time'}]"
+    },
+    {
+      "id": 2029,
+      "name": "Uzbekistan",
+      "iso3_name": "UZB",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "emoji": "🇺🇿",
+      "timezones": "[{'zoneName': 'Asia/Samarkand', 'gmtOffset': 18000, 'gmtOffsetName': 'UTC+05:00', 'abbreviation': 'UZT', 'tzName': 'Uzbekistan Time'}, {'zoneName': 'Asia/Tashkent', 'gmtOffset': 18000, 'gmtOffsetName': 'UTC+05:00', 'abbreviation': 'UZT', 'tzName': 'Uzbekistan Time'}]"
+    },
+    {
+      "id": 2030,
+      "name": "Vanuatu",
+      "iso3_name": "VUT",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "emoji": "🇻🇺",
+      "timezones": "[{'zoneName': 'Pacific/Efate', 'gmtOffset': 39600, 'gmtOffsetName': 'UTC+11:00', 'abbreviation': 'VUT', 'tzName': 'Vanuatu Time'}]"
+    },
+    {
+      "id": 2031,
+      "name": "Vatican City State (Holy See)",
+      "iso3_name": "VAT",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "emoji": "🇻🇦",
+      "timezones": "[{'zoneName': 'Europe/Vatican', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'CET', 'tzName': 'Central European Time'}]"
+    },
+    {
+      "id": 2032,
+      "name": "Venezuela",
+      "iso3_name": "VEN",
+      "region": "Americas",
+      "subregion": "South America",
+      "emoji": "🇻🇪",
+      "timezones": "[{'zoneName': 'America/Caracas', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'VET', 'tzName': 'Venezuelan Standard Time'}]"
+    },
+    {
+      "id": 2033,
+      "name": "Vietnam",
+      "iso3_name": "VNM",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "emoji": "🇻🇳",
+      "timezones": "[{'zoneName': 'Asia/Ho_Chi_Minh', 'gmtOffset': 25200, 'gmtOffsetName': 'UTC+07:00', 'abbreviation': 'ICT', 'tzName': 'Indochina Time'}]"
+    },
+    {
+      "id": 2034,
+      "name": "Virgin Islands (British)",
+      "iso3_name": "VGB",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇻🇬",
+      "timezones": "[{'zoneName': 'America/Tortola', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 2035,
+      "name": "Virgin Islands (US)",
+      "iso3_name": "VIR",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "emoji": "🇻🇮",
+      "timezones": "[{'zoneName': 'America/St_Thomas', 'gmtOffset': -14400, 'gmtOffsetName': 'UTC-04:00', 'abbreviation': 'AST', 'tzName': 'Atlantic Standard Time'}]"
+    },
+    {
+      "id": 2036,
+      "name": "Wallis And Futuna Islands",
+      "iso3_name": "WLF",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "emoji": "🇼🇫",
+      "timezones": "[{'zoneName': 'Pacific/Wallis', 'gmtOffset': 43200, 'gmtOffsetName': 'UTC+12:00', 'abbreviation': 'WFT', 'tzName': 'Wallis & Futuna Time'}]"
+    },
+    {
+      "id": 2037,
+      "name": "Western Sahara",
+      "iso3_name": "ESH",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "emoji": "🇪🇭",
+      "timezones": "[{'zoneName': 'Africa/El_Aaiun', 'gmtOffset': 3600, 'gmtOffsetName': 'UTC+01:00', 'abbreviation': 'WEST', 'tzName': 'Western European Summer Time'}]"
+    },
+    {
+      "id": 2038,
+      "name": "Yemen",
+      "iso3_name": "YEM",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "emoji": "🇾🇪",
+      "timezones": "[{'zoneName': 'Asia/Aden', 'gmtOffset': 10800, 'gmtOffsetName': 'UTC+03:00', 'abbreviation': 'AST', 'tzName': 'Arabia Standard Time'}]"
+    },
+    {
+      "id": 2039,
+      "name": "Zambia",
+      "iso3_name": "ZMB",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇿🇲",
+      "timezones": "[{'zoneName': 'Africa/Lusaka', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'CAT', 'tzName': 'Central Africa Time'}]"
+    },
+    {
+      "id": 2040,
+      "name": "Zimbabwe",
+      "iso3_name": "ZWE",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "emoji": "🇿🇼",
+      "timezones": "[{'zoneName': 'Africa/Harare', 'gmtOffset': 7200, 'gmtOffsetName': 'UTC+02:00', 'abbreviation': 'CAT', 'tzName': 'Central Africa Time'}]"
+    }
+  ]

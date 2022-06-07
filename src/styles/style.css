@@ -1,0 +1,258 @@
+.generalData {
+  width: 100%;
+  height: 55vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.containerData {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.generalData img {
+  width: 300px;
+  height: 60%;
+  margin-left: -100px;
+}
+
+.containerData p {
+  font-size: 18px;
+}
+
+.containerData h2 {
+  font-size: 110px;
+  font-weight: 390;
+}
+
+.navBar {
+  height: 5vh;
+  font-size: 48px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+  position: relative;
+}
+
+.navBar img {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
+
+.BarData {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 5vh;
+  margin-bottom: 50px;
+}
+
+.containerBarData {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 95%;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.containerBarData li {
+  list-style: none;
+}
+
+.containerBarData li h6 {
+  display: inline-block;
+  font-size: 17px;
+  margin-right: 10px;
+  text-align: justify;
+  color: #444444;
+}
+
+.containerBarData img {
+  height: 15px;
+  max-width: 15px;
+}
+
+.barDataNote {
+  font-size: 10px !important;
+}
+
+.temperature {
+  width: 80%;
+  border: 1px solid #000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 20px;
+  margin: auto;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  border: none;
+  border-radius: 1.5rem;
+  background: #efefef;
+  -webkit-box-shadow: 6px 6px 14px #dddddd, -6px -6px 14px #ffffff;
+          box-shadow: 6px 6px 14px #dddddd, -6px -6px 14px #ffffff;
+}
+
+.tempData {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+
+.tempData img {
+  max-width: 50px;
+  max-height: 50px;
+  margin: 10px 0;
+}
+
+.tempData h4 {
+  font-size: 12px;
+  color: #777777;
+}
+
+.tempData h3 {
+  font-size: 24px;
+}
+
+.locationSelect {
+  height: 40px;
+  width: 250px;
+  padding: 0 10px;
+  border: 1px solid #000;
+  color: #333333;
+  font-size: 14px;
+  border: none;
+  border-radius: 1.5rem;
+  background-color: #dddddd;
+  -webkit-box-shadow: 6px 6px 14px #cccccc, -6px -6px 14px #efefef;
+          box-shadow: 6px 6px 14px #cccccc, -6px -6px 14px #efefef;
+}
+
+.buttonContent {
+  margin-top: 10px;
+  width: 80%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.buttonContent button {
+  height: 40px;
+  width: 100px;
+  padding: 0 10px;
+  border: 1px solid #000;
+  color: #333333;
+  font-size: 14px;
+  border: none;
+  border-radius: 1.5rem;
+  background-color: #dddddd;
+  -webkit-box-shadow: 6px 6px 14px #cccccc, -6px -6px 14px #efefef;
+          box-shadow: 6px 6px 14px #cccccc, -6px -6px 14px #efefef;
+}
+
+.modalGetLocation {
+  background-color: #888888af;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.GetLocationForm {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  width: 300px;
+  height: 300px;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  background-color: #dddddd;
+  border-radius: 1rem;
+  padding: 20px 0;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  outline: none;
+}
+
+.climateCore {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+  width: 100%;
+  color: #333333;
+  background-color: #efefef;
+  padding: 5%;
+}
+/*# sourceMappingURL=style.css.map */
